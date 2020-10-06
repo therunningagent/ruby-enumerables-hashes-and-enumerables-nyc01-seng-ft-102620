@@ -9,5 +9,5 @@
 def select_winner(passengers)
   # add the code snippet here!
   
-  passengers.each 
+  passengers.each do |suite_a, ""
 end
